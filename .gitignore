@@ -1,3 +1,8 @@
 .env
-./models
-./llama.cpp
+.DS_Store
+
+# Cloned or compiled repo
+llama.cpp/
+
+# Large LLM model files
+models/
